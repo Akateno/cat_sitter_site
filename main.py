@@ -15,5 +15,3 @@ def generic():
 def elements():
     return render_template('elements.html')
 
-if __name__ == '__main__':
-    app.run(debug=True)
